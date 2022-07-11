@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-common/springcloud-service-common.iml" filepath="$PROJECT_DIR$/springcloud-service-common/springcloud-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-config/springcloud-service-config.iml" filepath="$PROJECT_DIR$/springcloud-service-config/springcloud-service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-dashboard/springcloud-service-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-service-dashboard/springcloud-service-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-eureka/springcloud-service-eureka.iml" filepath="$PROJECT_DIR$/springcloud-service-eureka/springcloud-service-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-role/springcloud-service-role.iml" filepath="$PROJECT_DIR$/springcloud-service-role/springcloud-service-role.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-role2/springcloud-service-role2.iml" filepath="$PROJECT_DIR$/springcloud-service-role2/springcloud-service-role2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-turbine/springcloud-service-turbine.iml" filepath="$PROJECT_DIR$/springcloud-service-turbine/springcloud-service-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-user/springcloud-service-user.iml" filepath="$PROJECT_DIR$/springcloud-service-user/springcloud-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-zuul/springcloud-service-zuul.iml" filepath="$PROJECT_DIR$/springcloud-service-zuul/springcloud-service-zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-service-common" />
+        <module name="springcloud-service-config" />
+        <module name="springcloud-service-dashboard" />
+        <module name="springcloud-service-eureka" />
+        <module name="springcloud-service-role" />
+        <module name="springcloud-service-role2" />
+        <module name="springcloud-service-turbine" />
+        <module name="springcloud-service-user" />
+        <module name="springcloud-service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud" target="1.8" />
+      <module name="springcloud-service-common" target="1.8" />
+      <module name="springcloud-service-config" target="1.8" />
+      <module name="springcloud-service-dashboard" target="1.8" />
+      <module name="springcloud-service-eureka" target="1.8" />
+      <module name="springcloud-service-role" target="1.8" />
+      <module name="springcloud-service-role2" target="1.8" />
+      <module name="springcloud-service-turbine" target="1.8" />
+      <module name="springcloud-service-user" target="1.8" />
+      <module name="springcloud-service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
